@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContractorCalculator</string>
+    <string name="labor_cost">Labor Cost</string>
+    <string name="material_cost">Material Cost</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="tax">Tax</string>
+    <string name="total">Total</string>
+    <string name="calculate">Calculate</string>
+</resources>
